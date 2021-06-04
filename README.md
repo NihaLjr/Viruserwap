@@ -31,7 +31,12 @@
 
 ### Usage
 ```bash
+> npm start
+```
+### TO RUN BOT AFTER QUIT
+```bash
 > node index.js
+> cd Viruserwap
 ```
 
 

@@ -25,7 +25,7 @@
 ```
 
 ```bash
-> cd Viruswap
+> cd Viruserwap
 > bash install.sh
 ```
 

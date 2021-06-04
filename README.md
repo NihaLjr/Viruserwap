@@ -36,7 +36,7 @@
 
 
 ## Special Thanks To
-* [ KILLADY JOCKER FFC ](http://deathshifter29.github.io) 
+* [ KILLADY JOCKER FFC ](http://deathshifter29/deathshifter29.github.io) 
 
 ## Sosmed
 * [`Instagram admin`](https://www.instagram.com/__death_shifter_?r=nametag)

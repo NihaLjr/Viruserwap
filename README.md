@@ -21,7 +21,7 @@
 >pkg update && pkg upgrade
 >pkg install git -y
 > pkg install nodejs -y
-> git clone https://github.com/deathshifter29/Jockerwap
+> git clone https://github.com/itsmevirus/Viruserwap
 ```
 
 ```bash
@@ -36,7 +36,7 @@
 
 
 ## Special Thanks To
-* [ KILLADY JOCKER FFC ](http://kckjoker.github.io) 
+* [ KILLADY JOCKER FFC ](http://deathshifter29.github.io) 
 
 ## Sosmed
 * [`Instagram admin`](https://www.instagram.com/__death_shifter_?r=nametag)

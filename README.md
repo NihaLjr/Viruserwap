@@ -36,8 +36,8 @@
 
 
 ## Special Thanks To
-* [ KILLADY JOCKER FFC ](https://github.com/deathshifter29/deathshifter29) 
+* [ SIDHU SER OFFICIAL ](https://github.com/deathshifter29/deathshifter29) 
 
 ## Sosmed
-* [`Instagram admin`](https://www.instagram.com/__death_shifter_?r=nametag)
-* [`WhatsApp Admin`](http://wa.me/916282670349)
+* [`Instagram admin`](https://www.instagram.com/virus_kwid?r=nametag)
+* [`WhatsApp Admin`](http://wa.me/919497862197)

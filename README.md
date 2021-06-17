@@ -21,11 +21,11 @@
 >pkg update && pkg upgrade
 >pkg install git -y
 > pkg install nodejs -y
-> git clone https://github.com/NihaLjr/XxnihaLxx
+> git clone https://github.com/illusionist69/XxaLitaxX
 ```
 
 ```bash
-> cd XxnihaLxx
+> cd XxaLitaxX
 > bash install.sh
 ```
 

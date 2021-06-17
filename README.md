@@ -25,7 +25,7 @@
 ```
 
 ```bash
-> cd Viruserwap
+> cd XxnihaLxx
 > bash install.sh
 ```
 
@@ -36,7 +36,7 @@
 ### TO RUN BOT AFTER QUIT
 ```bash
 > node index.js
-> cd Viruserwap
+
 ```
 
 

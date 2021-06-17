@@ -42,7 +42,7 @@
 
 ## Special Thanks To
 * [ SIDHU SER OFFICIAL ](https://github.com/deathshifter29/deathshifter29) 
-
+* [VIRUS SER ](https://github.com/itsmevirus)
 ## Sosmed
 * [`Instagram admin`](https://www.instagram.com/virus_kwid?r=nametag)
 * [`WhatsApp Admin`](http://wa.me/919497862197)

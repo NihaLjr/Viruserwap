@@ -7,12 +7,12 @@ const CFonts  = require('cfonts')
 CFonts.say('XxnihaLxX BOT', {
   font: 'chrome',
   align: 'center',
-  gradient: ['red', 'magenta']
+  gradient: ['red', 'blue']
 })
 CFonts.say(`${package.name}`, {
   font: 'console',
   align: 'center',
-  gradient: ['red', 'magenta']
+  gradient: ['red', 'blue']
 })
 function start(file) {
   let args = [path.join(file), ...process.argv.slice(2)]

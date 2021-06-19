@@ -75,15 +75,15 @@ const vcard1 = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=919497513815:+919497513815\n'
             + 'END:VCARD'
 
-prefix = "!"
-name = "VIRUS SER"
-rdaftar = "𝙑𝙄𝙍𝙐𝙎 𝙎𝙀𝙍"
-rmenu = "𝙑𝙄𝙍𝙐𝙎 𝙎𝙀𝙍"
-botinfo = "𝙑𝙄𝙍𝙐𝙎 𝙎𝙀𝙍"
+prefix = "."
+name = "Alita mwol"
+rdaftar = "Alita mwol"
+rmenu = "Alita mwol"
+botinfo = "Alita mwol"
 limitt = 999999999
 memberLimit = 1
 ban = []
-premium = ["918592026326@s.whatsapp.net","919497513815@s.whatsapp.net"]
+premium = ["917902962692@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){

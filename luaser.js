@@ -63,16 +63,16 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:SIDHU SER OFC\n'
-            + 'ORG:Owner SIDHU SER;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=918592026326:+918592026326\n'
+            + 'FN: illusionist69\n'
+            + 'ORG: illusionist;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=917902962692\n'
             + 'END:VCARD'
        
 const vcard1 = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:VIRUS SER\n'
-            + 'ORG:Co Owner VIRUS;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=919497513815:+919497513815\n'
+            + 'FN: illusionist69\n'
+            + 'ORG: illusionist;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=917902962692\n'
             + 'END:VCARD'
 
 prefix = "."
